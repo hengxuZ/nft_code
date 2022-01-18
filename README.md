@@ -1,2 +1,13 @@
-# nft_code
-NFT项目源代码，总结于实战项目。改动小，拿上即用即可部署。适用于真实环境、用户学习nft。区块链入门课程
+### NFT源码项目使用指南🧭
+
+- 复制源码文件 nft_source_code.sol
+- 粘贴到 http://remix.ethereum.org/
+- 编译项目
+- 部署项目（ETH、Polygon）
+- 调用 activateSale() 开始mint
+- 选择 mint 填写 wei的数量
+
+
+---
+
+开发定制 vx：zxmeng1999
