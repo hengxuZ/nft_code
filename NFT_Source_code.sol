@@ -10,7 +10,7 @@ import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
 
 /**
  * @title 哔哩哔哩：二娃玩转区块链
- * 微信：zxmeng1999
+ * zxmeng1999
  */
 contract StudyNft is ERC721Enumerable, Ownable, ReentrancyGuard {
     using SafeMath for uint256;
