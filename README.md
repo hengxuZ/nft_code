@@ -11,4 +11,8 @@
 ---
 视频教程：https://linktr.ee/erwaplayblockchain
 
+作者更多内容：
+➡️ 进discord 更多优质内容 ： https://discord.com/invite/RHtf7V6Z5G  （快讯推送，每日优质资料爬取，分类聊天。一站式服务）
+
+[discord社群展示](https://imgtu.com/i/7fpMTA)
 开发+答疑 微信：zxmeng1999
